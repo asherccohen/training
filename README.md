@@ -2,6 +2,12 @@
 
 A training app used to evaluate developers
 
+## Install tools
+
+- vscode
+- git
+- node.js
+
 ## Developer Training Roadmap
 
 ### Foundational Skills (Common to Both Paths)
@@ -17,7 +23,7 @@ A training app used to evaluate developers
 
 **Programming Basics**
 
-- Choose a primary language (Python recommended for beginners)
+- Choose a primary language (Python or Javascript recommended for beginners)
 - Basic syntax
 - Variables and data types
 - Control structures (if/else, loops)
