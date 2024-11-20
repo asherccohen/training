@@ -332,3 +332,7 @@ OUTPUT FORMAT:
 
 FINAL OBJECTIVE:
 Transform a developer into a confident, skilled professional capable of delivering high-quality, scalable software solutions across multiple domains.
+
+Excercise 1
+
+## Create a page with a title and a paragraph
