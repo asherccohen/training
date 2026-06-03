@@ -342,3 +342,31 @@ Transform a developer into a confident, skilled professional capable of deliveri
 Excercise 1
 
 ## Create a page with a title and a paragraph
+
+## Installation & Workspace Modes
+
+This repository supports two installation modes:
+
+### Standalone Mode (Default)
+
+Install independently with its own lockfile and node_modules:
+
+`ash
+pnpm install
+`
+
+### Workspace Mode
+
+When part of the root monorepo, dependencies are shared at the workspace root:
+
+`ash
+cd z:/root
+pnpm install
+`
+
+For explicit standalone behavior in any context:
+
+`ash
+pnpm install --ignore-workspace
+`
+
